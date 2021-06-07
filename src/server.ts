@@ -15,5 +15,5 @@ app.get('/', (_req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`photoplay app listening at http://localhost:${PORT}`);
+  console.log(`boilerplate app listening at http://localhost:${PORT}`);
 });
